@@ -1,2 +1,2 @@
-# OpenFrameWorks
-OpenFrameWorks
+# openFrameworks
+openFrameworks
